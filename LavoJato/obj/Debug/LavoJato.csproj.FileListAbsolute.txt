@@ -1,0 +1,7 @@
+C:\Curso Tiosso Moura\OO\LavoJato\bin\Debug\LavoJato.exe.config
+C:\Curso Tiosso Moura\OO\LavoJato\bin\Debug\LavoJato.exe
+C:\Curso Tiosso Moura\OO\LavoJato\bin\Debug\LavoJato.pdb
+C:\Curso Tiosso Moura\OO\LavoJato\obj\Debug\LavoJato.csproj.AssemblyReference.cache
+C:\Curso Tiosso Moura\OO\LavoJato\obj\Debug\LavoJato.csproj.CoreCompileInputs.cache
+C:\Curso Tiosso Moura\OO\LavoJato\obj\Debug\LavoJato.exe
+C:\Curso Tiosso Moura\OO\LavoJato\obj\Debug\LavoJato.pdb
