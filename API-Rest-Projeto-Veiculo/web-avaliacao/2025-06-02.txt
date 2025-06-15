@@ -1,0 +1,56 @@
+Data: 2025-06-02 09:18:32
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Get>d__4.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 31
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:19:17
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Get>d__5.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 46
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:21:13
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Get>d__6.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 71
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:23:46
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Post>d__7.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 94
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:24:48
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Put>d__8.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 119
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:25:16
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Delete>d__9.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 136
+________________________________________________________________________________________________________________________________________________________________________________________
+
+Data: 2025-06-02 09:25:51
+Erro: A cadeia de caracteres de entrada não estava em um formato correto.
+StackTrace:    em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em System.Convert.ToInt32(String value)
+   em web_api.Controllers.VeiculosController.<Delete>d__9.MoveNext() na C:\ProjetoparaProvaTissoApi\web-avaliacao\web-api\Controllers\VeiculosController.cs:linha 136
+________________________________________________________________________________________________________________________________________________________________________________________
+
