@@ -14,7 +14,7 @@ Foi criada com foco em organização de código, boas práticas e facilidade de 
     <li>Padrão Repositório para separar a lógica de negócios</li>
     <li>Tratamento de exceções com log personalizado (Utils.Logger)</li>
     <li>Testes realizados via Postman</li>
-    <li>Roteamento RESTful (GET, POST, PUT, DELETE)</li>
+    <li>Roteamento REST (GET, POST, PUT, DELETE)</li>
 </ul>
 
 <h4>📬 Endpoints principais</h4>
