@@ -1,0 +1,6 @@
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\bin\Debug\Models.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\bin\Debug\Models.pdb
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\obj\Debug\Models.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Models\obj\Debug\Models.pdb

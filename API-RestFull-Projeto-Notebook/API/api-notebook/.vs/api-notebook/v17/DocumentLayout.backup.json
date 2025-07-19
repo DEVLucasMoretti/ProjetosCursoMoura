@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85CFACD0-7C2C-4136-A967-F85C69EF3CE0}|Repository\\Repository.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\repository\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CFACD0-7C2C-4136-A967-F85C69EF3CE0}|Repository\\Repository.csproj|solutionrelative:repository\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\api-notebook\\controllers\\notebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|solutionrelative:api-notebook\\controllers\\notebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CFACD0-7C2C-4136-A967-F85C69EF3CE0}|Repository\\Repository.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CFACD0-7C2C-4136-A967-F85C69EF3CE0}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3526453-C08D-415F-8031-3DE38BFACA16}|Utils\\Utils.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\utils\\memorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3526453-C08D-415F-8031-3DE38BFACA16}|Utils\\Utils.csproj|solutionrelative:utils\\memorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\api-notebook\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|solutionrelative:api-notebook\\configurations\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\api-notebook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{49B8A937-4269-4677-BEDB-990B64A20D8B}|api-notebook\\api-notebook.csproj|solutionrelative:api-notebook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3526453-C08D-415F-8031-3DE38BFACA16}|Utils\\Utils.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3526453-C08D-415F-8031-3DE38BFACA16}|Utils\\Utils.csproj|solutionrelative:utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B0A77E-A3FD-4183-8148-577B2047A544}|Models\\Models.csproj|c:\\users\\drluc\\onedrive\\\u00E1rea de trabalho\\estudoprovafinal\\api\\api-notebook\\models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B0A77E-A3FD-4183-8148-577B2047A544}|Models\\Models.csproj|solutionrelative:models\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoryCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Utils\\MemoryCacheService.cs",
+              "RelativeDocumentMoniker": "Utils\\MemoryCacheService.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Utils\\MemoryCacheService.cs*",
+              "RelativeToolTip": "Utils\\MemoryCacheService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:15:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Repository\\Notebook.cs",
+              "RelativeDocumentMoniker": "Repository\\Notebook.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Repository\\Notebook.cs",
+              "RelativeToolTip": "Repository\\Notebook.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:09:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:03:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotebooksController.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Controllers\\NotebooksController.cs",
+              "RelativeDocumentMoniker": "api-notebook\\Controllers\\NotebooksController.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Controllers\\NotebooksController.cs*",
+              "RelativeToolTip": "api-notebook\\Controllers\\NotebooksController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:46:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Configurations\\Config.cs",
+              "RelativeDocumentMoniker": "api-notebook\\Configurations\\Config.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Configurations\\Config.cs",
+              "RelativeToolTip": "api-notebook\\Configurations\\Config.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:35:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Utils\\Logger.cs",
+              "RelativeToolTip": "Utils\\Logger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:28:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notebook.cs",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Models\\Notebook.cs",
+              "RelativeDocumentMoniker": "Models\\Notebook.cs",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\Models\\Notebook.cs",
+              "RelativeToolTip": "Models\\Notebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:26:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Web.config",
+              "RelativeDocumentMoniker": "api-notebook\\Web.config",
+              "ToolTip": "C:\\Users\\drluc\\OneDrive\\\u00C1rea de Trabalho\\EstudoProvaFinal\\API\\api-notebook\\api-notebook\\Web.config",
+              "RelativeToolTip": "api-notebook\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-19T15:24:40.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

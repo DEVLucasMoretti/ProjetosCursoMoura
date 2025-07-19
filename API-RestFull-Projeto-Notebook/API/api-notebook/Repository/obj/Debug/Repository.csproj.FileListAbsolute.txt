@@ -1,0 +1,11 @@
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Repository.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Repository.pdb
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Models.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Models.pdb
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\obj\Debug\Repository.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\obj\Debug\Repository.pdb
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Utils.dll
+C:\Users\drluc\OneDrive\Área de Trabalho\EstudoProvaFinal\API\api-notebook\Repository\bin\Debug\Utils.pdb
